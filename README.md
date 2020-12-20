@@ -9,4 +9,4 @@ A simple chat app made in App Inventor.
 EasyChat is open-source. Anyone can contribute to it. [Thinking about contributing](https://github.com/thecoder876/EasyChat/wiki/Contributing "Read the wiki page on contributing")?
 If you have a suggestion or bug, report it [here](https://github.com/thecoder876/EasyChat/issues/new/choose "Open a new issue").
 You can also discuss EasyChat [here](https://github.com/thecoder876/EasyChat/discussions "Switch to the Discussions tab").
-If you've found a security vulnerability, please report it immediantely [here](https://github.com/thecoder876/EasyChat/issues/new?assignees=&labels=vulnerability&template=security-vulnerability.md&title=Security+vulnerability+-+).
+If you've found a security vulnerability, please report it immediantely [here](https://github.com/thecoder876/EasyChat/issues/new?assignees=&labels=vulnerability&template=security-vulnerability.md&title=Security+vulnerability+-+ "Open a new security vulnerability issue").

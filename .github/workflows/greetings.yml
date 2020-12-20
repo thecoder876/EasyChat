@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'You've opened your first EasyChat issue! Make sure to check reguarly for replies!'' first issue'
+        pr-message: 'You've opened your first EasyChat pull request! Others will review it.'' first pr'

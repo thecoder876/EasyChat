@@ -18,6 +18,6 @@ assignees: ''
 
 
 
-**Versions** - Please provide your EasyChat and Android version. Tap "About" in the app to find these.
+**Versions** - Please provide your EasyChat and Android version. Tap "About" in the app (Find a Room screen) to find these.
 EasyChat version - 
 Android version -

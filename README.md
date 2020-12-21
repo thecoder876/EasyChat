@@ -9,7 +9,7 @@ A simple chat app made in App Inventor.
 - Admin tools - Admins can easily clear all messages. More tools coming soon.
 - Voice transcribed messages - Say a message, and it will be transcribed and sent.
 
-[![button](https://u.cubeupload.com/thecoder876/download.png)](https://https://github.com/thecoder876/EasyChat/releases/download/v1.0/EasyChat.v1.0.apk "Download the .apk file for the latest version")
+[![button](https://u.cubeupload.com/thecoder876/download.png)](https://github.com/thecoder876/EasyChat/releases/download/v1.0/EasyChat.v1.0.apk "Download the .apk file for the latest version")
 
 [Instructions for installing](https://github.com/thecoder876/EasyChat/wiki/Installation "Visit the wiki page on installation")
 

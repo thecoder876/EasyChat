@@ -1,4 +1,3 @@
-# EasyChat
 A simple chat app made in App Inventor.
 
 [![](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/stargazers)

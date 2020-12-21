@@ -1,6 +1,9 @@
 # EasyChat
 A simple chat app made in App Inventor.
 
+[![](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/stargazers)
+[![](https://img.shields.io/github/watchers/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/watchers)
+
 ## Features:
 - Rooms - Easily make private conversations.
 - Admin tools - Admins can easily clear all messages. More tools coming soon.

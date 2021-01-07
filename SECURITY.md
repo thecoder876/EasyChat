@@ -4,6 +4,7 @@
 | Version | Status             |
 | ------- | ------------------ |
 | 1.0     | :white_check_mark: |
+| 1.1     | :white_check_mark: | 
 
 _**Note**: If there is a "c" at the end of a version, it is a Community version and its edits were made by a contributor._
 

@@ -21,4 +21,4 @@ EasyChat is open-source. Anyone can contribute to it. [Thinking about contributi
 If you have a suggestion or bug, report it [here](https://github.com/thecoder876/EasyChat/issues/new/choose "Open a new issue").
 If you've found a security vulnerability, please report it immediantely [here](https://github.com/thecoder876/EasyChat/issues/new?assignees=&labels=vulnerability&template=security-vulnerability.md&title=Security+vulnerability+-+ "Open a new security vulnerability issue").
 
-_**Note**: if you are viewing this through the webpage, recent readme edits will not appear immediantly. It will take a few minutes for Jekyll to update the webpage._
+_**Note**: If you are viewing this through the webpage, recent readme edits will not appear immediantly. It will take a few minutes for Jekyll to update the webpage._

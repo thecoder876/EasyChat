@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/issues-pr/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/pulls "View open pull requests")
 [![](https://img.shields.io/badge/chat-on_discord-7289da.svg?style=flat-square)](https://discord.gg/vpmeZQgYD7 "Join the Discord server")
 [![](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat-square)](https://github.com/thecoder876/EasyChat/discussions "View discussions")
-[![](https://img.shields.io/badge/website-thecoder876.github.io/EasyChat-ff7b26.svg?style=flat-square)](https://thecoder876.github.io/EasyChat "Visit the Web page")
+[![](https://img.shields.io/badge/webpage-thecoder876.github.io/EasyChat-ff7b26.svg?style=flat-square)](https://thecoder876.github.io/EasyChat "Visit the Web page")
 
 ## Features:
 - Rooms - Easily make private conversations.

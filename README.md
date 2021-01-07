@@ -13,7 +13,7 @@
 
 [![](https://img.shields.io/github/downloads/thecoder876/EasyChat/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/thecoder876/EasyChat/releases "View releases")
 
-[![button](https://u.cubeupload.com/thecoder876/download.png)](https://github.com/thecoder876/EasyChat/releases/download/v1.0/EasyChat.v1.0.apk "Download the .apk file for the latest version")
+[![button](https://u.cubeupload.com/thecoder876/download.png)](https://github.com/thecoder876/EasyChat/releases/download/v1.1/EasyChat.v1.1.apk "Download the .apk file for the latest version")
 
 [Instructions for installing](https://github.com/thecoder876/EasyChat/wiki/Installation "Visit the wiki page on installation")
 

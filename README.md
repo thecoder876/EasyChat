@@ -15,7 +15,7 @@
 
 [![button](https://u.cubeupload.com/thecoder876/download.png)](https://github.com/thecoder876/EasyChat/releases/download/v1.1/EasyChat.v1.1.apk "Download the .apk file for the latest version (v1.1)")
 
-[Need an older version?](https://https://github.com/thecoder876/EasyChat/releases "Visit the Releases page")
+[Need an older version?](https://github.com/thecoder876/EasyChat/releases "Visit the Releases page")
 
 [Instructions for installing](https://github.com/thecoder876/EasyChat/wiki/Installation "Visit the wiki page on installation")
 

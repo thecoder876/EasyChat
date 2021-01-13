@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/stargazers "View stargazers")
+[![](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/stargazers "View stargazers")
 [![](https://img.shields.io/github/watchers/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/watchers "View watchers")
 [![](https://img.shields.io/github/issues/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/issues "View open issues")
 [![](https://img.shields.io/github/issues-pr/thecoder876/EasyChat?color=blue&style=flat-square)](https://github.com/thecoder876/EasyChat/pulls "View open pull requests")
@@ -12,6 +12,8 @@
 - Voice transcribed messages - Say a message, and it will be transcribed and sent.
 
 [![](https://img.shields.io/github/downloads/thecoder876/EasyChat/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/thecoder876/EasyChat/releases "View releases")
+
+[![](https://img.shields.io/github/v/release/thecoder876/EasyChat?label=current%20version)](https://github.com/thecoder876/EasyChat/releases "View releases")
 
 [![button](https://u.cubeupload.com/thecoder876/download.png)](https://github.com/thecoder876/EasyChat/releases/download/v1.1/EasyChat.v1.1.apk "Download the .apk file for the latest version (v1.1)")
 

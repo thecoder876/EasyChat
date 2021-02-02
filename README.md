@@ -11,6 +11,8 @@
 - Admin tools - Admins can easily clear all messages. More tools coming soon.
 - Voice transcribed messages - Say a message, and it will be transcribed and sent.
 
+_So, ummm I'm still having [this issue](https://github.com/thecoder876/EasyChat/issues/6 "View the issue on GitHub"). You might want to wait before installing._
+
 [![](https://img.shields.io/github/downloads/thecoder876/EasyChat/total?style=flat&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/thecoder876/EasyChat/releases "View releases")
 
 [![](https://img.shields.io/github/v/release/thecoder876/EasyChat?label=current%20version)](https://github.com/thecoder876/EasyChat/releases "View releases")

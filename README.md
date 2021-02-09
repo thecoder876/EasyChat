@@ -1,10 +1,11 @@
-[![](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/stargazers "View stargazers")
-[![](https://img.shields.io/github/watchers/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/watchers "View watchers")
-[![](https://img.shields.io/github/issues/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/issues "View open issues")
-[![](https://img.shields.io/github/issues-pr/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/pulls "View open pull requests")
-[![](https://img.shields.io/badge/chat-on_discord-7289da.svg?style=flat)](https://discord.gg/vpmeZQgYD7 "Join the Discord server")
-[![](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat)](https://github.com/thecoder876/EasyChat/discussions "View discussions")
-[![](https://img.shields.io/badge/webpage-thecoder876.github.io/EasyChat-ff7b26.svg?style=flat)](https://thecoder876.github.io/EasyChat "Visit the Web page")
+[![Stargazers](https://img.shields.io/github/stars/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/stargazers "View stargazers")
+[![Watchers](https://img.shields.io/github/watchers/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/watchers "View watchers")
+[![Open issues](https://img.shields.io/github/issues/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/issues "View open issues")
+[![Open pull requests](https://img.shields.io/github/issues-pr/thecoder876/EasyChat?color=blue&style=flat)](https://github.com/thecoder876/EasyChat/pulls "View open pull requests")
+[![Discord](https://img.shields.io/badge/chat-on_discord-7289da.svg?style=flat)](https://discord.gg/vpmeZQgYD7 "Join the Discord server")
+[![Gitter](https://badges.gitter.im/thecoder876/EasyChat.svg)](https://gitter.im/thecoder876/EasyChat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Discussions](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat)](https://github.com/thecoder876/EasyChat/discussions "View discussions")
+[![Web page](https://img.shields.io/badge/webpage-thecoder876.github.io/EasyChat-ff7b26.svg?style=flat)](https://thecoder876.github.io/EasyChat "Visit the Web page")
 
 ## Features:
 - Rooms - Easily make private conversations.
